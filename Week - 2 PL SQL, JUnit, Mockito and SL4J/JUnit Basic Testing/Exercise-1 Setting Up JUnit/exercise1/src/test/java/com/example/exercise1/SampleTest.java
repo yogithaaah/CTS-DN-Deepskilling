@@ -10,4 +10,4 @@ public class SampleTest {
         int sum = 5 + 7;
         assertEquals(12, sum);
     }
-}
+} 
